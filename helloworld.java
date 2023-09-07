@@ -6,6 +6,7 @@ System.out.println("Hello Jal");
 System.out.println("Hello Prithvi");
 System.out.println("Hello Aakash");
 System.out.println("Hello Vaayu");
+System.out.println("Hello Vaayu");
 System.out.println("THANK YOU UNIVERSE");
    }
 }
